@@ -1,0 +1,1 @@
+Esta es la carpeta que tiene los archivos de código Arduino. Sólo los debes copiar y pegar en la IDE de Arduino, tras haber descargado las librearías necesarias. Luego sólo debes compilar y cargar el código a tu placa microcontroladora.
