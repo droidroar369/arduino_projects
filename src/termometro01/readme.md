@@ -1,12 +1,12 @@
 <h2><b>Software del dispositivo</b></h2>
 
-Este código sirve para controlar el sensor digital DS1820 y mostrar la temperatura en una pantalla de cristal líquido con adaptador I2C. Primero que nada, debes descargar la librería <LiquidCrystal_I2C.h> (no confundir con <LiquidCrystal.h>, la librería para pantallas con 16 pines). Esta librería te permite controlar una pantalla de cristal líquido con adaptador I2C de 4 pines, la cual es mucho más práctica que la pantalla común de 16 pines.
+El código del archivo <b>.ino</b> sirve para controlar el sensor digital DS1820 y mostrar la temperatura en una pantalla de cristal líquido con adaptador I2C. Primero que nada, debes descargar la librería <LiquidCrystal_I2C.h> (no confundir con <LiquidCrystal.h>, la librería para pantallas con 16 pines). Esta librería te permite controlar una pantalla de cristal líquido con adaptador I2C de 4 pines, la cual es mucho más práctica que la pantalla común de 16 pines.
 
 Necesitarás las siguientes librerías para compilar el proyecto:
 
 <ul>
 <li> &lt;OneWire.h&gt; para el protocolo de comunicación</li>
-<li> &lt;allasTemperature.h&gt; para registrar los datos del sensor DS1820</li>
+<li> &lt;DallasTemperature.h&gt; para registrar los datos del sensor DS1820</li>
 <li>Y por supuesto, &lt;LiquidCrystal_I2C.h&gt; (no confundir con LiquidCrystal.h)</li>
 </ul>
 
