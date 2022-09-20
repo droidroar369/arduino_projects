@@ -5,3 +5,12 @@ Este código sirve para controlar el sensor digital DS1820 y mostrar la temperat
 Además, necesitarás las librerías <OneWire.h> para el protocolo de comunicación, y <DallasTemperature.h> para registrar los datos del sensor DS1820. Para instalar cualquier librería, en tu IDE de Arduino ve a Programa > Incluir librería > Administrar bibliotecas, ahí debes poner el nombre de la librería en la barra del buscador. De los resultados que aparezcan, selecciona la librería con el nombre correcto (en el caso de LiquidCrystal_I2C.h no confundir con LiquidCrystal.h) y dale a Instalar.
 
 Una vez instalado el programa, sólo es cuestión de compilar y subir el código a tu placa Arduino.
+
+<b>Materiales</b>
+
+Necesitarás los siguientes componentes:
+
+<ul>
+<li>Placa Arduino Uno® (o imitación)</li>
+<li></li>
+</ul>
