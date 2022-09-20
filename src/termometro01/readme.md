@@ -17,7 +17,9 @@ Necesitarás los siguientes componentes:
   <li>Resistencia 4.7 k&Omega;</li>
   <li>Fuente de alimentación de 9-12 V
   <li>Varios cables para Arduino</li>
-  <li>Protoboard o placa PCB (puede basarse en el esquema que dejé en la carpeta)</li>
+  <li>Protoboard o placa PCB (puede basarse en el esquema PDF que dejé en la carpeta)</li>
 </ul>
 
-Con estos materiales, sólo debemos unir las piezas siguiendo el esquema que dejaré acá abajo (lo puedes descargar en formato SVG desde la carpeta del proyecto).
+Con estos materiales, sólo debemos unir las piezas siguiendo el esquema que dejaré acá abajo (lo puedes descargar en formato PDF desde la carpeta del proyecto).
+
+<img src="ardu-temp01.svg" alt="Circuit Diagram">
