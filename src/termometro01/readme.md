@@ -22,4 +22,4 @@ Necesitarás los siguientes componentes:
 
 Con estos materiales, sólo debemos unir las piezas siguiendo el esquema que dejaré acá abajo (lo puedes descargar en formato PDF desde la carpeta del proyecto).
 
-<img src="ardu-temp01.svg" alt="Circuit Diagram" style="background-color:#555">
+<img src="ardu-temp01.svg" alt="Circuit Diagram" style="background-color:#555;">
