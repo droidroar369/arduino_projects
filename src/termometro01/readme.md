@@ -11,6 +11,13 @@ Una vez instalado el programa, sólo es cuestión de compilar y subir el código
 Necesitarás los siguientes componentes:
 
 <ul>
-<li>Placa Arduino Uno® (o imitación)</li>
-<li></li>
+  <li>Placa Arduino Uno® (o imitación)</li>
+  <li>Sensor de temperatura DS18B20</li>
+  <li>Display 16x02 de caracteres, con adaptador I2C</li>
+  <li>Resistencia 4.7 k&Omega;</li>
+  <li>Fuente de alimentación de 9-12 V
+  <li>Varios cables para Arduino</li>
+  <li>Protoboard o placa PCB (puede basarse en el esquema que dejé en la carpeta)</li>
 </ul>
+
+Con estos materiales, sólo debemos unir las piezas siguiendo el esquema que dejaré acá abajo (lo puedes descargar en formato SVG desde la carpeta del proyecto).
